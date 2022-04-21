@@ -35,8 +35,8 @@ Some children travelled only with a nanny, therefore parch=0 for them.
 * Supervised Machine Learning Algorithms: Logistic Regression, Random Forest, Naive Bayes, K-nearest Neighbors, SVC
 
 ## Technologies used
-* Python 3.8.8
-* Pandas 1.2.4
-* Matplotlib 3.3.4
-* Seaborn 0.11.1
-* Sklearn 0.24.1
+* Python
+* Pandas 
+* Matplotlib 
+* Seaborn 
+* Sklearn 
